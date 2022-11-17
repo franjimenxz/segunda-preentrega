@@ -167,9 +167,7 @@ footer {
     width: 100%;
     text-align: center;
 }
-.row {
-    margin-bottom: 100px;
-}
+
 .col-sm-6    {
     margin-bottom: 100px;
 }
@@ -181,8 +179,9 @@ footer {
     border: #ffbb01 solid 3px;
 }
 .row {
-    --bs-gutter-x: 1.5rem;
-    --bs-gutter-y: 0;
+    margin-bottom: 100px;
+}
+.row {
     display: flex;
     flex-wrap: wrap;
     margin-top: calc(-1 * var(--bs-gutter-y));
@@ -198,7 +197,7 @@ section {
 .precio {
     color: #000000;
 }
-.col-sm-6{position:relative;width:100%;min-height:1px;padding-right:15px;padding-left:15px}
+
 
 .text {
     font-family: "Source Sans Pro";
