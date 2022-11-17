@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Naxee14/pre-entrega2-jimenez-franco.git"
+    "url": "git+https://github.com/franjimenxz/segunda-preentrega.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Naxee14/pre-entrega2-jimenez-franco/issues"
+    "url": "https://github.com/franjimenxz/segunda-preentrega/issues"
   },
-  "homepage": "https://github.com/Naxee14/pre-entrega2-jimenez-franco#readme",
+  "homepage": "https://github.com/franjimenxz/segunda-preentrega#readme",
   "dependencies": {
     "node-sass": "^8.0.0"
   }
